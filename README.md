@@ -7,15 +7,25 @@ This project simulates the S-DSRC (Secure Dedicated Short Range Communication) p
 
 
 Requirements
+
 OMNeT++ (version 6.0.3)
+
 SUMO-gui (version 1.20.0)
+
 Veins (version 5.2)
+
 Inet (version 4.5.2)
 
+
+
 Installation
+
 Clone this repository: git clone https://github.com/WashifAkhtar/S-DSRC_protocol_simulation.git
+
 Import s-dsrc project directory in your OMNeT++ workspace.
+
 Build project.
+
 Run the simulation.
 
 Usage
