@@ -1,6 +1,10 @@
 # S-DSRC_Protocol_Simulation
+
+
 Overview
+
 This project simulates the S-DSRC (Secure Dedicated Short Range Communication) protocol for Vehicular Ad-Hoc Networks (VANETs) using OMNeT++ and SUMO. The simulation includes bidirectional data transfer between nodes and a cloud server, as well as between the Road Side Unit (RSU) and the cloud server, alongside cryptographic implementations.
+
 
 Requirements
 OMNeT++ (version 6.0.3)
